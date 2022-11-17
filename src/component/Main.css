@@ -1,0 +1,49 @@
+body {
+  font-weight: 300;
+}
+
+.header {
+  font-size: 21px;
+  font-weight: 300;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 3px 5px rgb(0 0 0 / 10%);
+  background-color: #5ec21c;
+}
+
+nav {
+  height: 85px;
+}
+
+#member-icon {
+  margin-top: 2px;
+}
+
+.btn-orange {
+  background: #ff7b00;
+  color: white;
+}
+
+.btn-orange:hover {
+  background: #ff9d42;
+  color: white;
+}
+
+.orange {
+  color: #ff7b00;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.bg-green {
+  background-color: #5ec21c;
+}
+
+.color-green {
+  color: #5ec21c;
+}
+
+.header-img:hover {
+  cursor: pointer;
+}
